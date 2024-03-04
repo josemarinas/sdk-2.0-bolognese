@@ -1,0 +1,16 @@
+{
+  "name": "sdk-types-viem",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@aragon/osx-commons-configs": "^0.2.0",
+    "@aragon/osx-commons-sdk": "^0.0.1-alpha.5",
+    "viem": "^2.7.16"
+  }
+}
